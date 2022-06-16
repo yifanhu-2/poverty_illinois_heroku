@@ -1,0 +1,4 @@
+﻿poverty-dash-app
+*.pyc
+.DS_Store
+.env
